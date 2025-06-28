@@ -14,31 +14,31 @@ const animeList = [
   {
     title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-153 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
-    type: "ตอนที่ 1-153 ซับไทย",
+    type: "ตอนที่ 1-153 ซับไทย Ss5",
     link: "Fights-Break-Sphere-Season-5"
   },
   {
     title: "Fights Break Sphere Season 4 สัประยุทธ์ทะลุฟ้า ภาค 4 ตอนที่ 1-24 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-4-1_11zon.jpg",
-    type: "ตอนที่ 1-24 ซับไทย",
+    type: "ตอนที่ 1-24 ซับไทย Ss4",
     link: "Fights-Break-Sphere-Season4"
   },
   {
     title: "Fights Break Sphere Season 3 สัประยุทธ์ทะลุฟ้า ภาค 3 ตอนที่ 1-12 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Fights-Break-Sphere-Season-3-1-1.jpg",
-    type: "ตอนที่ 1-12 ซับไทย",
+    type: "ตอนที่ 1-12 ซับไทย Ss3",
     link: "Fights-Break-Sphere-Season-3"
   },
   {
     title: "Fights Break Sphere Season 2 สัประยุทธ์ทะลุฟ้า ภาค 2 ตอนที่ 1-12 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Fights-Break-Sphere-Season-2-1-1.jpg",
-    type: "ตอนที่ 1-12 ซับไทย",
+    type: "ตอนที่ 1-12 ซับไทย Ss2",
     link: "Fights-Break-Sphere-Season-2"
   },
   {
     title: "Fights Break Sphere Season 1 สัประยุทธ์ทะลุฟ้า ภาค 1 ตอนที่ 1-12 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-e1701447291695-1-1.jpg",
-    type: "ตอนที่ 1-12 ซับไทย",
+    type: "ตอนที่ 1-12 ซับไทย Ss1",
     link: "Fights-Break-Sphere-Season-1"
   },
   
@@ -96,7 +96,48 @@ const animeList = [
     type: "ตอนที่ 1-176 พากย์ไทย",
     link: "Tunshi-Xingkong-Thai"
   },
+  {
   
+    title: "Blue Lock ขังดวลแข้ง ตอนที่ 1-24 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Blue-Lock--300x450-1.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย",
+    link: "Blue-Lock-Thai"
+  },
+  {
+  
+    title: "Blue Lock ขังดวลแข้ง ตอนที่ 1-24 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Blue-Lock--300x450-1.jpg",
+    type: "ตอนที่ 1-24 ซัยไทย",
+    link: "Blue-Lock"
+  },
+  {
+  
+    title: "Blue Lock vs. U-20 Japan – ขังดวลแข้ง ภาค 2 ตอนที่ 1-14 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Blue-Lock-2nd-Season_11zon-1.jpg",
+    type: "ตอนที่ 1-14 พากย์ไทย Ss2",
+    link: "Blue-Lock-Ss2-Thai"
+  },
+  {
+  
+    title: "Blue Lock vs. U-20 Japan – ขังดวลแข้ง ภาค 2 ตอนที่ 1-14 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Blue-Lock-2nd-Season_11zon-1.jpg",
+    type: "ตอนที่ 1-14 พากย์ไทย Ss2",
+    link: "Blue-Lock-Ss2"
+  },
+  {
+  
+    title: "Akuyaku Reijou Tensei Ojisan เมื่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่างโลก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Akuyaku-Reijou-Tensei-Ojisan-1_11zon-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Akuyaku-Reijou-Tensei-Ojisan-Thai"
+  },
+  {
+  
+    title: "Akuyaku Reijou Tensei Ojisan เมื่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่างโลก ตอนที่ 1-12 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Akuyaku-Reijou-Tensei-Ojisan-1_11zon-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Akuyaku-Reijou-Tensei-Ojisan"
+  },
 
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
 ];
