@@ -143,63 +143,63 @@ const animeList = [
     title: "Arifureta Shokugyou de Sekai Saikyou อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ ตอนที่ 1-13 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/sSQb1160-2.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "Arifureta-Shokugyou-de-Sekai-Saikyou-Thai"
   },
   {
   
     title: "Arifureta Shokugyou de Sekai Saikyou อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ ตอนที่ 1-13 ซับไทย",
     img: "https://img2.pic.in.th/pic/sSQb1160-2.jpg",
     type: "ตอนที่ 1-13 ซับไทย",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "Arifureta-Shokugyou-de-Sekai-Saikyou"
   },
   {
   
     title: "Arifureta Shokugyou de Sekai Saikyou Season 2 อาชีพกระจอกแล้วทำไมยังไงข้าก็เทพ ภาค 2 ตอนที่ 1-13 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-2-1.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย Ss2",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "Arifureta-Shokugyou-de-Sekai-Saikyou-Ss2-Thai"
   },
   {
   
     title: "Arifureta Shokugyou de Sekai Saikyou Season 2 อาชีพกระจอกแล้วทำไมยังไงข้าก็เทพ ภาค 2 ตอนที่ 1-13 ซับไทย",
     img: "https://img2.pic.in.th/pic/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-2-1.jpg",
     type: "ตอนที่ 1-13 ซับไทย Ss2",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "Arifureta-Shokugyou-de-Sekai-Saikyou-Ss2"
   },
   {
   
     title: "Arifureta Shokugyou de Sekai Saikyou 3 อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ ภาค 3 ตอนที่ 1-16 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Arifureta-Shokugyou-de-Sekai-Saikyou-3_11zon-1.jpg",
     type: "ตอนที่ 1-16 พากย์ไทย Ss3",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "Arifureta-Shokugyou-de-Sekai-Saikyou-Ss3-Thai"
   },
   {
   
     title: "Arifureta Shokugyou de Sekai Saikyou 3 อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ ภาค 3 ตอนที่ 1-16 ซับไทย",
     img: "https://img2.pic.in.th/pic/Arifureta-Shokugyou-de-Sekai-Saikyou-3_11zon-1.jpg",
     type: "ตอนที่ 1-16 ซับไทย Ss3",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "Arifureta-Shokugyou-de-Sekai-Saikyou-Ss3"
   },
   {
   
     title: "100-man no Inochi no Ue ni Ore wa Tatteiru ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/image043c099756e68774.md-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "100-man-Ss1"
   },
   {
   
     title: "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ภาค 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/58a7029892aee6c084ee06d046220592-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "100-man-Ss2"
   },
   {
   
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "Cherry-Magic-30-Thai"
   },
 
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
