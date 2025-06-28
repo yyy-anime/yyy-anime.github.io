@@ -82,6 +82,20 @@ const animeList = [
     type: "ตอนที่ 1-265 พากย์ไทย",
     link: "Douluo-Dalu"
   },
+  {
+  
+    title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-165 ซับไทย",
+    img: "https://img2.pic.in.th/pic/GoOnlineTools-image-downloader-1_11zon-1.jpeg",
+    type: "ตอนที่ 1-166 พากย์ไทย",
+    link: "Shen-Yin-Wangzuo"
+  },
+  {
+  
+    title: "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-176 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-1-1.jpg",
+    type: "ตอนที่ 1-176 พากย์ไทย",
+    link: "Tunshi-Xingkong-Thai"
+  },
   
 
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
