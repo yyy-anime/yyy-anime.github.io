@@ -101,7 +101,7 @@ const animeList = [
     title: "Blue Lock ขังดวลแข้ง ตอนที่ 1-24 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Blue-Lock--300x450-1.jpg",
     type: "ตอนที่ 1-24 พากย์ไทย",
-    link: "Blue-Lock-Thai"
+    link: "blue-lock-thai-2"
   },
   {
   
