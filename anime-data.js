@@ -480,7 +480,7 @@ const animeList = [
     title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Shangri-La-Frontier_11zon-1.jpg",
     type: "ตอนที่ 1-25 พากย์ไทย",
-    link: "yuusha-ga-shinda-thai"
+    link: "shangri-la-frontier-thai"
   },
 
   {
@@ -488,91 +488,91 @@ const animeList = [
     title: "Shangri-La Frontier Season 2 – เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ซีซั่น 2 ตอนที่ 1-25 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Shangri-La-Frontier-Season-2-1.jpg",
     type: "ตอนที่ 1-25 พากย์ไทย Ss2",
-    link: "watashi-no-shiawase-na-kekkon-thai"
+    link: "shangri-la-frontier-season-2-ss2-thai"
   },
   {
   
     title: "Sousou no Frieren คำอธิษฐานในวันที่จากลา ฟรีเรน ตอนที่ 1-28 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/55a552c29d3fd34de11ae06de15c1895-1.jpg",
     type: "ตอนที่ 1-28 พากย์ไทย",
-    link: "dr-stone-season-1-thai"
+    link: "sousou-no-frieren-thai"
   },
   {
   
     title: "Spy x Family ครอบครัวปลอมๆ เฉพาะกิจ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/912e02686624c724f01969f236db3b55-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "dr-stone-stone-wars-ss2-thai"
+    link: "spy-x-family-thai"
   },
   {
   
     title: "Spy x Family Part 2 ครอบครัวปลอม ๆ เฉพาะกิจ พาร์ท 2 ตอนที่ 1-13 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Spy-x-Family-Part-2-1.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย part2",
-    link: "dr-stone-ryusui-sub"
+    link: "spy-x-family-part-2-part2-thai"
   },
   {
   
     title: "Spy x Family Season 2 ครอบครัวปลอมๆ เฉพาะกิจ ภาค 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/602e7fd58119c10a0a0bb75bee05979e-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
-    link: "dr-stone-new-world-season-3-ss3-thai"
+    link: "spy-x-family-season-2-ss2-thai"
   },
   {
   
     title: "Sono Bisque Doll wa Koi wo suru หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/51aeb16ebabcbc4ae07862a5fd9dc948_11zon-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "dr-stone-new-world-season-3-part-2-ss3-thai"
+    link: "sono-bisque-doll-wa-koi-wo-suru-thai"
   },
   {
   
     title: "Noumin Kanren no Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/7202f9e40be5751b5639a40b8e190708-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "dr-stone-season-4-ss4-thai"
+    link: "noumin-kanren-no-skill-thai"
   },
   {
   
     title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri น้องโล่สายแทงก์ แกร่งเกินร้อย ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/imagee5ed422bc3381fdb-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "eiyuuou-bu-wo-kiwameru-tame-tenseisu-thai"
+    link: "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-thai"
   },
     {
   
     title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 น้องโล่สายแทงก์แกร่งเกินร้อย ภาค 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/44144bce108e3ff5f5b36f63e184e4ae-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
-    link: "dungeon-meshi-thai"
+    link: "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2-ss2-thai"
   },
   {
   
     title: "Kage no Jitsuryokusha ni Naritakute ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา ตอนที่ 1-20 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/228671e16bf0463551ec32aca593b345-1.jpg",
     type: "ตอนที่ 1-20 พากย์ไทย",
-    link: "shikkakumon-no-saikyou-kenja-thai"
+    link: "kage-no-jitsuryokusha-ni-naritakute-thai"
   },
   {
   
     title: "Kage no Jitsuryokusha ni Naritakute 2nd Season ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา ภาค 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/7cbe1308b07b6441733ec65d70d866ae_11zon-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
-    link: "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-thai"
+    link: "kage-no-jitsuryokusha-ni-naritakute-2nd-season-ss2-thai"
   },
   {
   
     title: "Jujutsu Kaisen มหาเวทย์ผนึกมาร ตอนที่ 1-24 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/imagebceac6e7447e6cdb.jpg",
     type: "ตอนที่ 1-24 พากย์ไทย",
-    link: "lookism-thai"
+    link: "jujutsu-kaisen-thai"
   },
   {
   
     title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/c218ba824cbe197958791a3185a02e80_11zon-1.jpg",
     type: "ตอนที่ 1-23 พากย์ไทย Ss2",
-    link: "seirei-gensouki-spirit-chronicles-thai"
+    link: "jujutsu-kaisen-season-2-ss2-thai"
   },
   
 
