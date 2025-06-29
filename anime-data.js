@@ -210,276 +210,361 @@ const animeList = [
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Kimetsu no Yaiba: Mugen Ressha-hen ดาบพิฆาตอสูร ศึกรถไฟสู่นิรันดร์ ตอนที่ 1-7 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-7 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Kimetsu no Yaiba: Yuukaku-hen ดาบพิฆาตอสูร ซีซั่น 2 ย่านเริงรมย์ ตอนที่ 1-11 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-11 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Kimetsu no Yaiba: Katanakaji no Sato-hen ดาบพิฆาตอสูร ซีซั่น 3 บทหมู่บ้านช่างตีดาบ ตอนที่ 1-11 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-11 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Kimetsu No Yaiba: Hashira Geiko-Hen ดาบพิฆาตอสูร ซีซั่น 4 ภาคการสั่งสอนของเสาหลัก ตอนที่ 1-8 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-8 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Mashle ศึกโลกเวทมนตร์คนพลังกล้าม ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "MF Ghost 2nd Season – เอ็มเอฟ โกส ซีซั่น 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "MF Ghost เอ็มเอฟ โกส ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "MF Ghost 2nd Season – เอ็มเอฟ โกส ซีซั่น 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Tensei shitara Slime Datta Ken เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ตอนที่ 1-24 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-24 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Tensei shitara Slime Datta Ken 2nd Season เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ภาค 2 ตอนที่ 1-24 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-24 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Tensei Shitara Slime Datta Ken 3rd Season เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ภาค 3 ตอนที่ 1-24 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-24 พากย์ไทย Ss3",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Tensura Nikki: Tensei Shitara Slime Datta Ken เดอะ สไลม์ ไดอารี่ ตอนที่ 1-12 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 ซับไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Record of Ragnarok มหาศึกคนชนเทพ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Record of Ragnarok มหาศึกคนชนเทพ ตอนที่ 1-12 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 ซับไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Record of Ragnarok II มหาศึกคนชนเทพ ซีซั่น 2 ตอนที่ 1-15 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-15 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Record of Ragnarok II มหาศึกคนชนเทพ ซีซั่น 2 ตอนที่ 1-15 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-15 ซับไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Akuma no Riddle ปริศนาสั่งฆ่า ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "DANDADAN ดันดาดัน ตอนที่ 1-12 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 ซับไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "DANDADAN ดันดาดัน ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+ 
+  {
+  
+    title: "YoukosoJitsuryoku Shijou Shugi no Kyoushitsu e โรงเรียนแห่งความเป็นเลิศ ภาค 1 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 2 โรงเรียนแห่งความเป็นเลิศ ภาค 2 ตอนที่ 1-13 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd โรงเรียนแห่งความเป็นเลิศ ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3 ตอนที่ 1-13 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย Ss3",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Zom 100: Bucket List of the Dead สิ่งที่อยากทำก่อนจะกลายเป็นซอมบี้ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Yuusha Party wo Tsuihou sareta Beast Tamer เทมเมอร์ถูกทิ้งกับเด็กหญิงหูแมวสุดแกร่ง ตอนที่ 1-13 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Yuusha ga Shinda! เมื่อผู้กล้าลาโลกแล้ว! ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Watashi no Shiawase na Kekkon ขอให้รักเรานี้ได้มีความสุข ตอนที่ 1-25 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-25 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Dr. Stone Season 1 ด็อกเตอร์สโตน ภาค 1 ตอนที่ 1-24 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-24 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Dr. Stone: Stone Wars ด็อกเตอร์สโตน ภาค 2 ตอนที่ 1-11 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-11 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Dr. Stone Ryusui ด็อกเตอร์สโตน (ภาคพิเศษ) พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนพิเศษริวซุย ซับไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Dr. Stone: New World Season 3 Part 2 ด็อกเตอร์สโตน ภาค3 พาร์ท 2 ตอนที่ 1-11พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-11 พากย์ไทย Ss3",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Dr. Stone: New World Season 3 Part 2 ด็อกเตอร์สโตน ภาค3 พาร์ท 2 ตอนที่ 1-11พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-11 พากย์ไทย Ss3 part2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Dr.Stone Season 4 – ด็อกเตอร์สโตน ภาค 4 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss4",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Eiyuuou, Bu wo Kiwameru Tame Tenseisu ราชาวีรชน เกิดใหม่เพื่อขัดเกลาวิถีต่อสู้ และกลายเป็นอัศวินฝึกหัดที่แกร่งสุดในโลก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Dungeon Meshi สูตรลับตำหรับดันเจี้ยน ตอนที่ 1-24 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-24 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Shikkakumon no Saikyou Kenja ปราชญ์หนึ่งในใต้หล้ากับตราสุดอัปยศ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-8 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-25 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
+
+  {
+  
+    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-25 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-28 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-13 พากย์ไทย part2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-20 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-23 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  
+
+
+
+
+
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
 ];
