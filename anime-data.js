@@ -203,9 +203,135 @@ const animeList = [
   },
 {
   
+    title: "Kimetsu no Yaiba ดาบพิฆาตอสูร ตอนที่ 1-26 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-26 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-7 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-11 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-11 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-8 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย Ss3",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 ซับไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 ซับไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-15 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-15 ซับไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 ซับไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
@@ -233,7 +359,14 @@ const animeList = [
   
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
+    type: "ตอนที่ 1-13 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-13 พากย์ไทย Ss3",
     link: "Cherry-Magic-30-Thai"
   },
   {
@@ -247,7 +380,7 @@ const animeList = [
   
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
+    type: "ตอนที่ 1-13 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
@@ -261,7 +394,49 @@ const animeList = [
   
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
+    type: "ตอนที่ 1-25 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-11 พากย์ไทย Ss2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนพิเศษริวซุย ซับไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-11 พากย์ไทย Ss3",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-11 พากย์ไทย Ss3 part2",
+    link: "Cherry-Magic-30-Thai"
+  },
+  {
+  
+    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย Ss4",
     link: "Cherry-Magic-30-Thai"
   },
   {
@@ -275,7 +450,7 @@ const animeList = [
   
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
+    type: "ตอนที่ 1-24 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
@@ -289,196 +464,21 @@ const animeList = [
   
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
+    type: "ตอนที่ 1-13 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
+    type: "ตอนที่ 1-8 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
     title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Cherry-Magic-30-Thai"
-  },
-  {
-  
-    title: "Cherry Magic 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
-    type: "ตอนที่ 1-12 พากย์ไทย",
+    type: "ตอนที่ 1-25 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
