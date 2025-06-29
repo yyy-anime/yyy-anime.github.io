@@ -157,7 +157,7 @@ const animeList = [
     title: "Arifureta Shokugyou de Sekai Saikyou Season 2 อาชีพกระจอกแล้วทำไมยังไงข้าก็เทพ ภาค 2 ตอนที่ 1-13 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-2-1.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย Ss2",
-    link: "arifureta-shokugyou-de-sekai-saikyou-season-2-ss2-thai
+    link: "arifureta-shokugyou-de-sekai-saikyou-season-2-ss2-thai"
   },
   {
   
