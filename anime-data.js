@@ -108,42 +108,42 @@ const animeList = [
     title: "Blue Lock ขังดวลแข้ง ตอนที่ 1-24 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Blue-Lock--300x450-1.jpg",
     type: "ตอนที่ 1-24 ซับไทย",
-    link: "Blue-Lock"
+    link: "blue-lock-sub"
   },
   {
   
     title: "Blue Lock vs. U-20 Japan – ขังดวลแข้ง ภาค 2 ตอนที่ 1-14 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Blue-Lock-2nd-Season_11zon-1.jpg",
     type: "ตอนที่ 1-14 พากย์ไทย Ss2",
-    link: "Blue-Lock-Ss2-Thai"
+    link: "blue-lock-vs-u-20-japan-ss2-thai"
   },
   {
   
     title: "Blue Lock vs. U-20 Japan – ขังดวลแข้ง ภาค 2 ตอนที่ 1-14 ซับไทย",
     img: "https://img2.pic.in.th/pic/Blue-Lock-2nd-Season_11zon-1.jpg",
     type: "ตอนที่ 1-14 ซับไทย Ss2",
-    link: "Blue-Lock-Ss2"
+    link: "blue-lock-vs-u-20-japan-ss2-sub"
   },
   {
   
     title: "Akuyaku Reijou Tensei Ojisan เมื่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่างโลก ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Akuyaku-Reijou-Tensei-Ojisan-1_11zon-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "Akuyaku-Reijou-Tensei-Ojisan-Thai"
+    link: "akuyaku-reijou-tensei-ojisan-thai"
   },
   {
   
     title: "Akuyaku Reijou Tensei Ojisan เมื่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่างโลก ตอนที่ 1-12 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Akuyaku-Reijou-Tensei-Ojisan-1_11zon-1.jpg",
     type: "ตอนที่ 1-12 ซับไทย",
-    link: "Akuyaku-Reijou-Tensei-Ojisan"
+    link: "akuyaku-reijou-tensei-ojisan-sub"
   },
   {
   
     title: "Arifureta Shokugyou de Sekai Saikyou อาชีพกระจอกแล้วทำไม ยังไงข้าก็เทพ ตอนที่ 1-13 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/sSQb1160-2.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย",
-    link: "Arifureta-Shokugyou-de-Sekai-Saikyou-Thai"
+    link: "arifureta-shokugyou-de-sekai-saikyou-thai"
   },
   {
   
