@@ -478,84 +478,91 @@ const animeList = [
 
   {
   
-    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
+    title: "Shangri-La Frontier Season 2 – เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ซีซั่น 2 ตอนที่ 1-25 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-25 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
+    title: "Sousou no Frieren คำอธิษฐานในวันที่จากลา ฟรีเรน ตอนที่ 1-28 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-28 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    title: "Spy x Family ครอบครัวปลอมๆ เฉพาะกิจ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
+    title: "Spy x Family Part 2 ครอบครัวปลอม ๆ เฉพาะกิจ พาร์ท 2 ตอนที่ 1-13 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-13 พากย์ไทย part2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
+    title: "Spy x Family Season 2 ครอบครัวปลอมๆ เฉพาะกิจ ภาค 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    title: "Sono Bisque Doll wa Koi wo suru หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    title: "Noumin Kanren no Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
+    title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri น้องโล่สายแทงก์ แกร่งเกินร้อย ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "Cherry-Magic-30-Thai"
+  },
+    {
+  
+    title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 น้องโล่สายแทงก์แกร่งเกินร้อย ภาค 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
+    title: "Kage no Jitsuryokusha ni Naritakute ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา ตอนที่ 1-20 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-20 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    title: "Kage no Jitsuryokusha ni Naritakute 2nd Season ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา ภาค 2 ตอนที่ 1-12 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Isekai de Cheat Skill wo Te ni Shita Ore wa สกิลโกงไร้เทียมทาน สร้างตำนานในสองโลก ตอนที่ 1-13 พากย์ไทย",
+    title: "Jujutsu Kaisen มหาเวทย์ผนึกมาร ตอนที่ 1-24 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-24 พากย์ไทย",
     link: "Cherry-Magic-30-Thai"
   },
   {
   
-    title: "Lookism คนมันหล่อช่วยไม่ได้ ตอนที่ 1-8 พากย์ไทย",
+    title: "Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร ภาค 2 ตอนที่ 1-23 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Cherry-Magic-30-1.jpg",
     type: "ตอนที่ 1-23 พากย์ไทย Ss2",
     link: "Cherry-Magic-30-Thai"
