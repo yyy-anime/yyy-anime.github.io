@@ -206,35 +206,35 @@ const animeList = [
   
     title: "Kimetsu no Yaiba ดาบพิฆาตอสูร ตอนที่ 1-26 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Kimetsu-no-Yaiba-1.jpg",
-    type: "ตอนที่ 1-26 พากย์ไทย",
+    type: "ตอนที่ 1-26 พากย์ไทย Ss1",
     link: "kimetsu-no-yaiba-thai"
   },
   {
   
     title: "Kimetsu no Yaiba: Mugen Ressha-hen ดาบพิฆาตอสูร ศึกรถไฟสู่นิรันดร์ ตอนที่ 1-7 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Kimetsu-no-Yaiba-Mugen-Ressha-hen--1.jpg",
-    type: "ตอนที่ 1-7 พากย์ไทย",
+    type: "ตอนที่ 1-7 พากย์ไทย พิเศษ",
     link: "kimetsu-no-yaiba-mugen-ressha-hen-thai"
   },
   {
   
     title: "Kimetsu no Yaiba: Yuukaku-hen ดาบพิฆาตอสูร ซีซั่น 2 ย่านเริงรมย์ ตอนที่ 1-11 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Kimetsu-no-Yaiba-Yuukaku-hen--1.jpg",
-    type: "ตอนที่ 1-11 พากย์ไทย",
+    type: "ตอนที่ 1-11 พากย์ไทย Ss2",
     link: "kimetsu-no-yaiba-yuukaku-hen-thai"
   },
   {
   
     title: "Kimetsu no Yaiba: Katanakaji no Sato-hen ดาบพิฆาตอสูร ซีซั่น 3 บทหมู่บ้านช่างตีดาบ ตอนที่ 1-11 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Kimetsu-no-Yaiba_-Katanakaji-no-Sato-hen-1.jpg",
-    type: "ตอนที่ 1-11 พากย์ไทย",
+    type: "ตอนที่ 1-11 พากย์ไทย Ss3",
     link: "kimetsu-no-yaiba-katanakaji-no-sato-hen-thai"
   },
   {
   
     title: "Kimetsu No Yaiba: Hashira Geiko-Hen ดาบพิฆาตอสูร ซีซั่น 4 ภาคการสั่งสอนของเสาหลัก ตอนที่ 1-8 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Kimetsu-no-Yaiba-Hashira-Geiko-hen-1.jpg",
-    type: "ตอนที่ 1-8 พากย์ไทย",
+    type: "ตอนที่ 1-8 พากย์ไทย Ss4",
     link: "kimetsu-no-yaiba-hashira-geiko-hen-thai"
   },
   {
