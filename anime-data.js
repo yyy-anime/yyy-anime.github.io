@@ -1,9 +1,9 @@
 const animeList = [
-  {
-    title: "One Piece Season 21 – วันพีช ซีซั่น 21 เกาะอนาคตเกาะเอ็กเฮด ตอนที่ 1089-1134 ซับไทย",
-    img: "https://img2.pic.in.th/pic/One-Piece-Season-21-4.jpg",
-    type: "ตอนที่ 1089-1134 ซับไทย",
-    link: "One-Piece-Season-21"
+    {
+    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-153 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
+    type: "ตอนที่ 1-154 ซับไทย Ss5",
+    link: "Fights-Break-Sphere-Season-5"
   },
   {
     title: "Black Clover แบล็คโคลเวอร์ ตอนที่ 1-170 พากย์ไทย",
@@ -12,11 +12,12 @@ const animeList = [
     link: "black-clover-thai"
   },
   {
-    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-153 ซับไทย",
-    img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
-    type: "ตอนที่ 1-153 ซับไทย Ss5",
-    link: "Fights-Break-Sphere-Season-5"
+    title: "One Piece Season 21 – วันพีช ซีซั่น 21 เกาะอนาคตเกาะเอ็กเฮด ตอนที่ 1089-1134 ซับไทย",
+    img: "https://img2.pic.in.th/pic/One-Piece-Season-21-4.jpg",
+    type: "ตอนที่ 1089-1134 ซับไทย",
+    link: "One-Piece-Season-21"
   },
+
   {
     title: "Fights Break Sphere Season 4 สัประยุทธ์ทะลุฟ้า ภาค 4 ตอนที่ 1-24 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-4-1_11zon.jpg",
